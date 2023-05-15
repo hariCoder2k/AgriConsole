@@ -1,0 +1,6 @@
+javac -classpath ..\lib\mysql-connector-java-8.0.20.jar;. Agri.java
+
+java -classpath "C:\gfg\lib\mysql-connector-j-8.0.33.jar";. Agri
+
+
+javac -classpath ..\lib\mysql-connector-java-8.0.20.jar;. Agri.java && java -classpath "C:\gfg\lib\mysql-connector-j-8.0.33.jar";. Agri
